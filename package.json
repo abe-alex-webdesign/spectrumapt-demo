@@ -1,0 +1,15 @@
+{
+  "name": "spectrumapt-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:abe-alex-webdesign/spectrumapt-demo.git",
+  "author": "Abraham White <abelincoln.white@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "live-server": "^1.2.0"
+  },
+  "scripts": {
+      "start": "live-server ."
+  }
+}
